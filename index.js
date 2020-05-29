@@ -2,7 +2,7 @@
 
 
 const pets = [];
-pets.push('Odie');
+const append = pets.push('Odie');
 
 pets.unshift('Coca');
 pets[pets.length - 1].pop();
