@@ -1,7 +1,7 @@
 // Write your solution here!
 
 
-const pets = [];
+const pets = ["Milo", "Otis", "Garfield"];
 let append = pets.push('Odie');
 pets;
 
