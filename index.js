@@ -4,6 +4,9 @@
 const pets = [];
 const append = pets.push('Odie');
 
-pets.unshift('Coca');
-pets[pets.length - 1].pop();
-pets.shift(pets);
+const prepend = pets.unshift('Coca');
+
+ const removeLast = pets[pets.length - 1].pop();
+
+
+const removeFirst = pets.shift(pets);
