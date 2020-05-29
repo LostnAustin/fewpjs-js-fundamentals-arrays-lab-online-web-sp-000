@@ -4,7 +4,7 @@ append.push('Odie');
 append;
 
 const prepend = ["Milo", "Otis", "Garfield"];
-prepend.unshift();
+prepend.unshift("Odie");
 prepend;
 
  const removeLast = ["Milo", "Otis", "Garfield"];
