@@ -4,12 +4,12 @@ pets.push('Odie');
 pets;
 
 const prepend = ["Milo", "Otis", "Garfield"];
-pets.unshift('Coca');
+pets.unshift();
 pets;
 
  const removeLast = ["Milo", "Otis", "Garfield"];
- = pets[pets.length - 1].pop();
+ = removeLast.pop();
 
 
 const removeFirst = ["Milo", "Otis", "Garfield"];
-= pets.shift(pets);
+removeFirst.shift();
