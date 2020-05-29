@@ -2,7 +2,7 @@
 
 
 const pets = [];
-pets.push('Odie');
+let append = pets.push('Odie');
 pets;
 
 const prepend = pets.unshift('Coca');
